@@ -1,0 +1,4 @@
+district_id,district_name,meters,billed,estimated,reset_review,insufficient_readings,no_reading,billable_kwh,charge_cents
+D-A,Aurora,2,1,1,0,0,0,153,3519
+D-B,Birch,2,0,0,1,1,0,0,0
+D-C,Canal,3,1,0,0,1,1,30,570
