@@ -1,0 +1,8 @@
+meter_id,meter_name,district_id
+M-101,Library,D-A
+M-102,Clinic,D-A
+M-201,Depot,D-B
+M-202,School,D-B
+M-301,Pump House,D-C
+M-302,Greenhouse,D-C
+M-303,Workshop,D-C
