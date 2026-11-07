@@ -1,0 +1,8 @@
+meter_id,meter_name,district_id,district_name,rate_cents_per_kwh,opening_reading_id,opening_date,opening_kwh,opening_method,closing_reading_id,closing_date,closing_kwh,closing_method,consumption_kwh,charge_cents,status
+M-101,Library,D-A,Aurora,23,R-00,2026-01-02,1195,ACTUAL,R-20,2026-01-30,1290,ACTUAL,95,2185,BILLED
+M-102,Clinic,D-A,Aurora,23,R-03,2026-01-01,500,ACTUAL,R-04,2026-01-31,558,ESTIMATED,58,1334,ESTIMATED
+M-201,Depot,D-B,Birch,31,R-05,2026-01-03,900,ACTUAL,R-06,2026-01-29,870,ACTUAL,-30,,RESET_REVIEW
+M-202,School,D-B,Birch,31,,,,,,,,,,,INSUFFICIENT_READINGS
+M-301,Pump House,D-C,Canal,19,,,,,,,,,,,INSUFFICIENT_READINGS
+M-302,Greenhouse,D-C,Canal,19,,,,,,,,,,,NO_READING
+M-303,Workshop,D-C,Canal,19,R-10,2026-01-02,40,ACTUAL,R-11,2026-01-30,70,ACTUAL,30,570,BILLED
